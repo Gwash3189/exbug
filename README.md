@@ -8,7 +8,7 @@ by adding `exbug` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
-  [{:exbug, "~> 0.1.0", only: :dev}]
+  [{:exbug, "~> 0.0.1", only: :dev}]
 end
 ```
 
